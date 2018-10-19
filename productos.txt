@@ -2,4 +2,4 @@ Producto1, 10, 15, 21
 Producto2, 20, 0, 3
 Producto3, 4, 8, 0
 Producto8, 1, 2, NR
-Producto12, NR, 2, NR
+Producto33, NR, 20, 15
